@@ -13,7 +13,7 @@ Filtering relevant patient segments (age, diagnosis, follow-up status)
 Joining datasets using Patient ID
 Aggregation using GroupBy (recovery rates, doctor performance)
 Visualization using charts (bar chart, box plot, heatmap)
-## Key Insights
+## Key Insights:
 Recovery rates vary across different diagnoses
 Treatment effectiveness differs between doctors
 Missed follow-ups negatively impact patient recovery
